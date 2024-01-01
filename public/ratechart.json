@@ -1,0 +1,235 @@
+{
+    "categories": [
+        {
+            "name": "Facials",
+            "items": [
+                {
+                    "name": "Fruit Facial",
+                    "price": "400"
+                },
+                {
+                    "name": "Red Wine Facial",
+                    "price": "550"
+                },
+                {
+                    "name": "Grape Wine Facial",
+                    "price": "600"
+                },
+                {
+                    "name": "Banana Facial",
+                    "price": "500"
+                },
+                {
+                    "name": "Papaya Facial",
+                    "price": "500"
+                },
+                {
+                    "name": "Silver Facial",
+                    "price": "550"
+                },
+                {
+                    "name": "Gold Facial",
+                    "price": "600"
+                },
+                {
+                    "name": "Diamond Facial",
+                    "price": "700"
+                }
+            ]
+        },
+        {
+            "name": "Premium Facials",
+            "items": [
+                {
+                    "name": "Lotus Facial",
+                    "price": "700/800"
+                },
+                {
+                    "name": "O3 Facial",
+                    "price": "1000-2500"
+                },
+                {
+                    "name": "Blossom Kochher",
+                    "price": "1200"
+                }
+            ]
+        },
+        {
+            "name": "Bleaches",
+            "items": [
+                {
+                    "name": "OxyGlow Bleach",
+                    "price": "150"
+                },
+                {
+                    "name": "De-Tan",
+                    "price": "200"
+                }
+            ]
+        },
+        {
+            "name": "Hair Services",
+            "items": [
+                {
+                    "name": "Haircut ( hairstyle)",
+                    "price": "100-250"
+                },
+                {
+                    "name": "Hair Spa Loreal (length)",
+                    "price": "500-800"
+                },
+                {
+                    "name": "Head Massage",
+                    "price": "150"
+                },
+                {
+                    "name": "Body Massage",
+                    "price": "800"
+                },
+                {
+                    "name": "Hair Colour (service)",
+                    "price": "150-250"
+                },
+                {
+                    "name": "Head Wash",
+                    "price": "150"
+                },
+                {
+                    "name": "Hair Straightening (length)",
+                    "price": "250-350"
+                },
+                {
+                    "name": "Hair Curling (length)",
+                    "price": "300-350"
+                },
+                {
+                    "name": "Hair Crimping (length)",
+                    "price": "300-350"
+                },
+                {
+                    "name": "Hair Re-bonding",
+                    "price": "6000"
+                },
+                {
+                    "name": "Hair Smoothening",
+                    "price": "4000"
+                },
+                {
+                    "name": "Hair Keratin",
+                    "price": "5000"
+                },
+                {
+                    "name": "Hair Blow Dryer",
+                    "price": "100"
+                }
+            ]
+        },
+        {
+            "name": "Nails",
+            "items": [
+                {
+                    "name": "Manicure",
+                    "price": "350"
+                },
+                {
+                    "name": "Pedicure",
+                    "price": "350"
+                }
+            ]
+        },
+        {
+            "name": "Body Treatments",
+            "items": [
+                {
+                    "name": "Body Bleach",
+                    "price": "1200"
+                },
+                {
+                    "name": "Body Polishing",
+                    "price": "5000"
+                }
+            ]
+        },
+        {
+            "name": "Waxing",
+            "items": [
+                {
+                    "name": "Normal Wax Hands",
+                    "price": "200"
+                },
+                {
+                    "name": "Normal Wax Legs",
+                    "price": "300"
+                },
+                {
+                    "name": "Normal Full Body Wax",
+                    "price": "1000"
+                },
+                {
+                    "name": "Rica Wax Hands",
+                    "price": "400"
+                },
+                {
+                    "name": "Rica Wax Legs",
+                    "price": "600"
+                },
+                {
+                    "name": "Rica Full Body Wax",
+                    "price": "1500"
+                }
+            ]
+        },
+        {
+            "name": "Makeup",
+            "items": [
+                {
+                    "name": "Light Makeup",
+                    "price": "1000-1500"
+                },
+                {
+                    "name": "Bridal Makeup",
+                    "price": "Varies",
+                    "items": [
+                        {
+                            "name": "Makeup Studio",
+                            "price": "Varies"
+                        },
+                        {
+                            "name": "Kyrolan",
+                            "price": "Varies"
+                        }
+                    ]
+                },
+                {
+                    "name": "Full Bridal Package",
+                    "price": "Varies"
+                }
+            ]
+        },
+        {
+            "name": "Threading",
+            "items": [
+                {
+                    "name": "Eye Brows",
+                    "price": "30"
+                },
+                {
+                    "name": "Forehead",
+                    "price": "20"
+                },
+                {
+                    "name": "Upper Lips",
+                    "price": "30"
+                },
+                {
+                    "name": "Side Locks",
+                    "price": "60"
+                },
+                {
+                    "name": "Full face wax",
+                    "price": "150"
+                }
+            ]
+        }
+    ]
+}
