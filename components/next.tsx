@@ -11,7 +11,7 @@ interface NextButtonProps {
 }
 
 export function NextButton(props: NextButtonProps) {
-  const userDataStr = localStorage.getItem("userData");
+  const userDataStr = global.window ? localStorage.getItem("userData") : "";
   const userData = userDataStr ? JSON.parse(userDataStr) : null;
 
   const [form, setForm] = useState({

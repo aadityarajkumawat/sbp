@@ -29,7 +29,7 @@ export function ItemList(props: ItemListProps) {
   const [expanded, setExpanded] = useState<number | null>(null);
   const [selectedItems, setSelectedItems] = useState<Array<string>>([]);
 
-  const userDataStr = localStorage.getItem("userData");
+  const userDataStr = global.window ? localStorage.getItem("userData") : "";
   const userData = userDataStr ? JSON.parse(userDataStr) : null;
 
   const clearItemList = () => {

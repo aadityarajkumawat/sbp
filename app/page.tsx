@@ -2,8 +2,8 @@
 
 import { Main } from "@/components/main";
 import { promises as fs } from "fs";
-import { fonts } from "./layout";
 import { ItemList } from "@/components/itemlist";
+import { playfair } from "./fonts";
 // import { v4 } from "uuid";
 
 export default async function Home() {
@@ -30,7 +30,7 @@ export default async function Home() {
       <div className="flex flex-col justify-center items-center py-3 text-zinc-700 h-[120px]">
         <h1
           className={
-            "underline text-3xl font-medium" + " " + fonts.playfair.className
+            "underline text-3xl font-medium" + " " + playfair.className
           }
         >
           Sunshine Beauty Salon
